@@ -12,4 +12,4 @@ Este programa Calcula las calorias consumidas y quemadas, ya sea agregando algun
   - Se mejora el performance renderizando componentes especificos
   - Utilizamos la API de CryptoCompare para tener los datos en tiempo real.
 
-PREVIEW: 
+PREVIEW: https://crypto-react-type-script.vercel.app/
