@@ -8,7 +8,7 @@ Este programa Calcula las calorias consumidas y quemadas, ya sea agregando algun
   - CSS
   - Hecho con Vite,
   - Zustand, para un mejor manejo de los datos en todo el proyecto
-  - ZOD, para establecer los types de lso datos obtenidos de la API
+  - ZOD, para establecer los types y validar los resultados de la API
   - Se mejora el performance renderizando componentes especificos
   - Utilizamos la API de CryptoCompare para tener los datos en tiempo real.
 
